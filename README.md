@@ -6,9 +6,7 @@ Depends on [crunch by ChevyRay](https://github.com/ChevyRay/crunch/) to work, yo
 Functionalities:
 
 - Support all the functionalities of crunch (except the verbose mode)
-
 - Create batch files to build your images with a double click (like you should normally do when using only crunch)
-
 - Create configuration files to save your selected options & sources
 
 TODO:
