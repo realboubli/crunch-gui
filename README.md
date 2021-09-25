@@ -12,4 +12,4 @@ Functionalities:
 TODO:
 
 - Support verbose mode
-- Option to create relatives path batch files
+- Option to create batch files with relative paths
