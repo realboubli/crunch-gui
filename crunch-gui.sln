@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crunch-gui", "crunch-gui\crunch-gui.csproj", "{8C0B0AD3-DCF1-4C0C-97E4-F9B17DF779C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C0B0AD3-DCF1-4C0C-97E4-F9B17DF779C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0B0AD3-DCF1-4C0C-97E4-F9B17DF779C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0B0AD3-DCF1-4C0C-97E4-F9B17DF779C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0B0AD3-DCF1-4C0C-97E4-F9B17DF779C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E302FAAF-5BDE-49A8-8AB9-0D9E57489F22}
+	EndGlobalSection
+EndGlobal
